@@ -6,7 +6,7 @@ import urllib
 server = "sai-healthtech-server7418.database.windows.net"
 database = "healthtech-db"
 username = "azureadmin"
-password = "Saihrishi@123"
+password = "YOUR_PASSWORD"
 
 # Connection string
 params = urllib.parse.quote_plus(
